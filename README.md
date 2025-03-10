@@ -43,8 +43,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-Visit http://127.0.0.1:8000/ to see the application running.
-
 ## Technologies Used
 
 - Django 5.0.2
